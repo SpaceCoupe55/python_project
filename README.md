@@ -1,2 +1,3 @@
 # python_project
-python project
+cocktail machine
+
